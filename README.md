@@ -4,6 +4,22 @@
 # Spring
 
 # Java
+* JVM 동작 원리
+* OOP
+* SOLID
+* 가비지 컬렉터
+* 접근 제한자
+* String vs Char
+* == vs equals
+* Call By Value and Call by Reference
+* hashcode
+* Wrapper class
+* non-static vs static
+* final vs finally vs finalize
+* try with resources
+* generic
+* java collections
+* blocking vs non-blocking
 
 # 운영체제
 * 커널
